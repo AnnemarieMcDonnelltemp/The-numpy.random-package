@@ -5,7 +5,5 @@ Assignment 2018.
 
 Programming for Data Analysis.
 
-Annemarie McDonnell.
-
 Student No:10024547.
 
